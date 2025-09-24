@@ -1,0 +1,5 @@
+you need
+
+- Python 3
+- Pip3
+- Visual C++ Redistributable Runtimes All-in-One
